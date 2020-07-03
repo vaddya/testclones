@@ -1,4 +1,4 @@
-package ru.mail.polis.mrsandman555;
+package ru.mail.polis.mrsandman5555;
 
 import org.jetbrains.annotations.NotNull;
 import ru.mail.polis.DAO;
